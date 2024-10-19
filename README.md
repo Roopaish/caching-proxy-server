@@ -2,6 +2,8 @@
 
 [Roadmap.sh](https://roadmap.sh/projects/caching-server)
 
+Caching is done using .cache folder which stores the json files of every requests.
+
 ## Setup
 
 - Clone the repository
